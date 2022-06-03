@@ -40,7 +40,7 @@ Este projeto consiste em buscar em criar um api para buscar personalidades. Sua 
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/lucio-iot-dev/Monitorador-de-Sites-Go/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/lucio-iot-dev/api-go-rest/blob/main/LICENSE) para mais detalhes.
 
 
 Dev: Lúcio do Nascimento.

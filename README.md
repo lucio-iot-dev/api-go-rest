@@ -27,10 +27,16 @@ api-go-rest
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Golang
+- Postgres
+- Docker
 
 ## 💻 Descrição
 
 Este projeto consiste em buscar em criar um api para buscar personalidades. Sua função a princípio é para fins didáticos com o intuito de aprimorar na linguagem Golang, aprender a trabalhar com o Banco de dados Postgres utilizando Docker.
+
+<p align="center">
+  <img alt="Golang" src="https://github.com/lucio-iot-dev/api-go-rest/blob/main/Foto-readme/Golang-Docker.png" width="30%">
+</p>
 
 ## :memo: Licença
 
